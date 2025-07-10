@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 
 # --- Page Setup ---
 st.set_page_config(page_title="Finance Buddy", layout="wide")
-st.title("💼 Welcome to Finance Buddy Testing")
+st.title("💼 Welcome to Finance Buddy ")
 
 # --- Enhanced Model Training ---
 @st.cache_resource

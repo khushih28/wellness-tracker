@@ -1,0 +1,1001 @@
+Date,Merchant,Amount,Category,Is_Fraud
+23/11/2024,Amazon,22.26,Shopping,0
+24/04/2024,Uber,370.87,Transportation,0
+06/10/2024,Amazon,299.34,Shopping,0
+17/02/2024,Netflix,124,Entertainment,0
+14/10/2024,Netflix,360.85,Entertainment,0
+02/08/2024,Netflix,230.11,Entertainment,0
+04/01/2024,Uber,352.09,Transportation,0
+20/03/2024,Netflix,479.03,Entertainment,0
+17/02/2024,Target,57.39,Shopping,0
+05/11/2024,Whole Foods,405.49,Groceries,0
+01/10/2024,Amazon,486.83,Shopping,0
+09/10/2024,Whole Foods,416.41,Groceries,0
+04/07/2024,Zomato,104.22,Food & Dining,0
+04/12/2024,Netflix,388.8,Entertainment,1
+29/04/2024,Amazon,196.26,Shopping,0
+05/07/2024,Uber,191.39,Transportation,0
+16/05/2024,Amazon,308.47,Shopping,0
+05/05/2024,Uber,236.51,Transportation,0
+23/11/2024,Flipkart,117.61,Shopping,0
+29/01/2024,Netflix,412.68,Entertainment,0
+24/07/2024,Whole Foods,42.43,Groceries,1
+17/10/2024,Shell Gas,114.19,Transportation,0
+25/11/2024,ATM Withdrawal,80.01,Cash,0
+14/10/2024,Flipkart,138.74,Shopping,0
+25/10/2024,Target,187.38,Shopping,1
+11/03/2024,Flipkart,251.82,Shopping,0
+26/02/2024,Uber,317.45,Transportation,0
+04/08/2024,Zomato,41.13,Food & Dining,0
+27/08/2024,Flipkart,133.19,Shopping,0
+06/01/2024,Amazon,344.04,Shopping,0
+16/05/2024,Shell Gas,64.66,Transportation,0
+20/08/2024,Starbucks,477.37,Food & Dining,1
+14/05/2024,Flipkart,383.36,Shopping,0
+24/02/2024,Whole Foods,422.42,Groceries,0
+11/04/2024,Uber,193.22,Transportation,0
+28/09/2024,Starbucks,303.48,Food & Dining,0
+27/02/2024,Shell Gas,440.57,Transportation,0
+06/06/2024,Netflix,38.38,Entertainment,1
+10/02/2024,Amazon,368.63,Shopping,0
+29/09/2024,Uber,72.91,Transportation,0
+08/10/2024,Uber,139.88,Transportation,1
+04/08/2024,Netflix,465.17,Entertainment,0
+19/12/2024,Netflix,359.34,Entertainment,0
+09/12/2024,Shell Gas,224.67,Transportation,0
+02/03/2024,Netflix,120.1,Entertainment,0
+28/10/2024,Flipkart,122.76,Shopping,0
+06/02/2024,Starbucks,122.18,Food & Dining,1
+18/06/2024,Amazon,261.94,Shopping,0
+05/09/2024,Netflix,274.22,Entertainment,0
+19/10/2024,Zomato,241.61,Food & Dining,0
+27/07/2024,Netflix,56.22,Entertainment,0
+30/06/2024,Target,211.44,Shopping,1
+28/01/2024,Amazon,39.7,Shopping,0
+25/02/2024,Netflix,103.88,Entertainment,0
+12/03/2024,Target,99.91,Shopping,0
+08/02/2024,ATM Withdrawal,405.93,Cash,1
+20/02/2024,Starbucks,329.55,Food & Dining,0
+08/01/2024,Amazon,463.92,Shopping,0
+26/03/2024,Target,247.96,Shopping,0
+24/07/2024,Starbucks,90.67,Food & Dining,0
+18/07/2024,Whole Foods,463.99,Groceries,0
+26/05/2024,Target,351.33,Shopping,0
+11/10/2024,ATM Withdrawal,85.85,Cash,0
+30/01/2024,Zomato,370.51,Food & Dining,0
+09/06/2024,Starbucks,34.57,Food & Dining,0
+28/09/2024,Uber,37.87,Transportation,0
+05/04/2024,Amazon,301.57,Shopping,0
+30/04/2024,Target,68.74,Shopping,1
+06/05/2024,Zomato,301.31,Food & Dining,0
+02/08/2024,Zomato,286.96,Food & Dining,0
+13/05/2024,Netflix,338.17,Entertainment,0
+15/05/2024,Target,74.13,Shopping,0
+22/08/2024,Shell Gas,465.22,Transportation,1
+05/01/2024,ATM Withdrawal,314.37,Cash,0
+21/02/2024,Amazon,273.44,Shopping,0
+08/03/2024,Shell Gas,441.62,Transportation,1
+08/07/2024,Whole Foods,87.3,Groceries,0
+26/12/2024,Whole Foods,309.72,Groceries,1
+30/11/2024,Flipkart,13.83,Shopping,0
+02/06/2024,Amazon,470.08,Shopping,0
+29/02/2024,Amazon,373.78,Shopping,0
+24/05/2024,Zomato,113.21,Food & Dining,0
+17/12/2024,Whole Foods,257.65,Groceries,0
+27/01/2024,Amazon,320.8,Shopping,0
+23/01/2024,Starbucks,173.44,Food & Dining,0
+14/05/2024,Uber,373.2,Transportation,0
+06/08/2024,Flipkart,14.74,Shopping,0
+19/12/2024,Uber,277.34,Transportation,0
+25/10/2024,Flipkart,82.57,Shopping,0
+06/06/2024,Shell Gas,450.5,Transportation,0
+21/01/2024,Shell Gas,112.94,Transportation,0
+22/02/2024,Shell Gas,392.26,Transportation,1
+27/07/2024,Zomato,377.24,Food & Dining,1
+01/05/2024,Uber,488.34,Transportation,0
+30/07/2024,Starbucks,97.89,Food & Dining,1
+29/07/2024,Netflix,140.73,Entertainment,0
+25/02/2024,Target,437.36,Shopping,1
+23/04/2024,Netflix,410.13,Entertainment,0
+05/06/2024,Netflix,119.23,Entertainment,0
+23/07/2024,Shell Gas,146.52,Transportation,0
+22/05/2024,Shell Gas,324.33,Transportation,0
+01/10/2024,Shell Gas,470.23,Transportation,0
+13/05/2024,Uber,294.49,Transportation,1
+20/01/2024,Amazon,302.32,Shopping,0
+09/06/2024,Target,307.04,Shopping,0
+16/07/2024,Zomato,103.14,Food & Dining,0
+11/08/2024,Starbucks,264.76,Food & Dining,0
+17/12/2024,Netflix,188.47,Entertainment,0
+06/12/2024,Shell Gas,315.35,Transportation,0
+04/03/2024,Whole Foods,258.49,Groceries,0
+16/06/2024,Target,351.63,Shopping,0
+08/04/2024,Target,335.82,Shopping,0
+30/03/2024,Zomato,288.86,Food & Dining,0
+01/01/2024,Whole Foods,150.59,Groceries,0
+23/10/2024,Zomato,330.81,Food & Dining,0
+14/08/2024,Netflix,260.48,Entertainment,0
+27/03/2024,Amazon,149.06,Shopping,0
+13/11/2024,Shell Gas,55.76,Transportation,1
+30/04/2024,Whole Foods,120.07,Groceries,0
+13/01/2024,Starbucks,129.97,Food & Dining,0
+07/02/2024,ATM Withdrawal,213.08,Cash,0
+09/04/2024,Target,252.24,Shopping,0
+01/12/2024,Starbucks,447.4,Food & Dining,1
+24/02/2024,Target,117.23,Shopping,0
+22/12/2024,Flipkart,237.63,Shopping,0
+03/03/2024,ATM Withdrawal,75.34,Cash,0
+28/09/2024,Flipkart,301.77,Shopping,1
+14/08/2024,Zomato,409.35,Food & Dining,1
+06/08/2024,Flipkart,228.5,Shopping,0
+31/08/2024,ATM Withdrawal,137,Cash,0
+22/11/2024,Whole Foods,385.25,Groceries,0
+16/11/2024,Netflix,144.55,Entertainment,0
+26/05/2024,Netflix,143.14,Entertainment,0
+03/10/2024,Amazon,77.8,Shopping,0
+21/12/2024,Uber,356.15,Transportation,0
+27/07/2024,Shell Gas,275.88,Transportation,0
+15/04/2024,Target,200.84,Shopping,0
+22/12/2024,Starbucks,429.8,Food & Dining,0
+13/07/2024,ATM Withdrawal,12.89,Cash,0
+18/07/2024,Target,273.73,Shopping,0
+04/11/2024,Netflix,249.23,Entertainment,0
+05/09/2024,Starbucks,200.54,Food & Dining,0
+26/07/2024,Uber,421.85,Transportation,1
+14/11/2024,Flipkart,23.21,Shopping,0
+15/10/2024,Starbucks,51.13,Food & Dining,0
+24/08/2024,Uber,34.64,Transportation,0
+18/04/2024,ATM Withdrawal,170.15,Cash,0
+13/07/2024,Whole Foods,378.48,Groceries,0
+09/05/2024,Amazon,240.45,Shopping,0
+27/01/2024,Shell Gas,119.87,Transportation,0
+29/11/2024,Starbucks,379.57,Food & Dining,1
+12/04/2024,Starbucks,314.45,Food & Dining,0
+30/08/2024,Amazon,286.35,Shopping,0
+24/12/2024,Whole Foods,385.78,Groceries,0
+06/11/2024,Amazon,391.12,Shopping,0
+08/06/2024,Amazon,293.56,Shopping,1
+21/10/2024,Target,204.36,Shopping,0
+08/02/2024,Zomato,348.4,Food & Dining,0
+22/02/2024,Whole Foods,426.64,Groceries,0
+02/03/2024,Zomato,393.49,Food & Dining,0
+07/08/2024,Shell Gas,43.79,Transportation,0
+07/01/2024,Target,412.94,Shopping,0
+04/07/2024,ATM Withdrawal,356.58,Cash,0
+24/09/2024,Whole Foods,311.8,Groceries,1
+04/09/2024,ATM Withdrawal,223.43,Cash,0
+17/05/2024,Shell Gas,427.34,Transportation,0
+14/02/2024,Whole Foods,442,Groceries,0
+25/08/2024,Zomato,309.06,Food & Dining,0
+15/01/2024,ATM Withdrawal,426.97,Cash,0
+18/04/2024,Shell Gas,400.94,Transportation,0
+01/11/2024,Whole Foods,282.34,Groceries,0
+07/04/2024,Amazon,128.26,Shopping,0
+11/10/2024,Netflix,348.4,Entertainment,0
+08/09/2024,ATM Withdrawal,398.54,Cash,0
+23/04/2024,Target,348.98,Shopping,0
+24/10/2024,Shell Gas,241.9,Transportation,0
+05/08/2024,Flipkart,172.09,Shopping,0
+18/05/2024,Whole Foods,133.19,Groceries,0
+08/04/2024,Shell Gas,68.58,Transportation,0
+19/12/2024,Uber,103.86,Transportation,0
+21/05/2024,Zomato,488.54,Food & Dining,0
+24/05/2024,Amazon,417.99,Shopping,0
+03/07/2024,Uber,158.11,Transportation,0
+05/03/2024,Whole Foods,32.3,Groceries,0
+29/05/2024,Uber,322.56,Transportation,0
+22/02/2024,Starbucks,291.29,Food & Dining,0
+13/08/2024,Shell Gas,100.34,Transportation,0
+01/09/2024,Amazon,412.84,Shopping,0
+07/02/2024,Zomato,318.43,Food & Dining,0
+17/03/2024,Zomato,475.07,Food & Dining,0
+07/05/2024,Amazon,283.46,Shopping,0
+01/11/2024,Zomato,120.59,Food & Dining,0
+18/08/2024,ATM Withdrawal,155.7,Cash,0
+07/08/2024,Whole Foods,288.63,Groceries,0
+20/02/2024,Netflix,316.5,Entertainment,0
+11/02/2024,Uber,127.53,Transportation,0
+21/03/2024,Starbucks,210.17,Food & Dining,0
+28/08/2024,Whole Foods,25.99,Groceries,0
+24/05/2024,ATM Withdrawal,44.88,Cash,0
+15/05/2024,Zomato,333.98,Food & Dining,1
+05/08/2024,Amazon,276.84,Shopping,0
+16/05/2024,Uber,44.99,Transportation,0
+06/06/2024,Zomato,376.99,Food & Dining,0
+27/05/2024,ATM Withdrawal,70.93,Cash,0
+24/12/2024,Target,471.91,Shopping,0
+09/09/2024,ATM Withdrawal,49.42,Cash,0
+09/08/2024,Shell Gas,305.82,Transportation,0
+27/04/2024,Zomato,297.69,Food & Dining,0
+10/12/2024,Whole Foods,292.36,Groceries,0
+30/03/2024,ATM Withdrawal,264.29,Cash,0
+22/05/2024,Uber,498.5,Transportation,0
+08/09/2024,Amazon,240.31,Shopping,0
+13/06/2024,Amazon,430.29,Shopping,0
+21/12/2024,ATM Withdrawal,151.23,Cash,1
+08/10/2024,Starbucks,232.86,Food & Dining,0
+14/06/2024,Amazon,485.39,Shopping,0
+20/09/2024,Starbucks,332.25,Food & Dining,0
+30/07/2024,Starbucks,101.92,Food & Dining,0
+12/09/2024,ATM Withdrawal,382.4,Cash,0
+08/10/2024,Uber,464.56,Transportation,0
+23/12/2024,ATM Withdrawal,69.5,Cash,1
+07/11/2024,Netflix,357.79,Entertainment,0
+08/01/2024,Flipkart,209.92,Shopping,0
+28/02/2024,ATM Withdrawal,474.06,Cash,0
+19/03/2024,ATM Withdrawal,467,Cash,0
+27/12/2024,Whole Foods,213.59,Groceries,0
+29/08/2024,Netflix,233.83,Entertainment,0
+07/04/2024,Zomato,259.04,Food & Dining,1
+05/02/2024,Whole Foods,388.61,Groceries,1
+23/06/2024,Flipkart,140.91,Shopping,0
+01/06/2024,Zomato,294.16,Food & Dining,0
+17/03/2024,ATM Withdrawal,273.9,Cash,0
+09/10/2024,Flipkart,194.83,Shopping,1
+06/04/2024,Netflix,290.18,Entertainment,0
+29/07/2024,Starbucks,165.91,Food & Dining,0
+14/07/2024,Target,494.32,Shopping,0
+29/11/2024,Uber,252.71,Transportation,0
+14/09/2024,Zomato,172.68,Food & Dining,0
+13/08/2024,Amazon,267.72,Shopping,0
+14/03/2024,Target,436.76,Shopping,1
+08/02/2024,ATM Withdrawal,392.95,Cash,0
+15/11/2024,Target,328.42,Shopping,1
+11/12/2024,Flipkart,196.2,Shopping,0
+06/09/2024,Flipkart,27.59,Shopping,0
+19/11/2024,Whole Foods,498.74,Groceries,0
+10/08/2024,Amazon,382.58,Shopping,0
+21/02/2024,ATM Withdrawal,91.52,Cash,0
+15/01/2024,Starbucks,168.94,Food & Dining,0
+02/07/2024,Shell Gas,221.04,Transportation,0
+29/07/2024,Zomato,344.08,Food & Dining,0
+30/03/2024,Amazon,308.65,Shopping,0
+15/12/2024,Netflix,253.86,Entertainment,0
+28/04/2024,ATM Withdrawal,322.57,Cash,0
+07/12/2024,Starbucks,450.47,Food & Dining,0
+27/05/2024,Flipkart,87.41,Shopping,0
+25/06/2024,Zomato,156.59,Food & Dining,1
+19/12/2024,Whole Foods,233.85,Groceries,0
+15/07/2024,ATM Withdrawal,62.26,Cash,0
+02/07/2024,Zomato,154.98,Food & Dining,0
+12/01/2024,Target,144.5,Shopping,0
+17/12/2024,Starbucks,456.2,Food & Dining,0
+26/05/2024,Netflix,307.46,Entertainment,0
+21/11/2024,Netflix,314.24,Entertainment,0
+03/12/2024,Uber,317.84,Transportation,1
+26/11/2024,Starbucks,161.38,Food & Dining,0
+23/10/2024,Shell Gas,368.86,Transportation,0
+31/05/2024,Shell Gas,376.27,Transportation,0
+08/03/2024,Flipkart,439.47,Shopping,0
+13/09/2024,Whole Foods,416.93,Groceries,0
+03/09/2024,Whole Foods,375.81,Groceries,0
+28/02/2024,ATM Withdrawal,481.82,Cash,0
+25/04/2024,Target,483.96,Shopping,0
+06/07/2024,Amazon,397.43,Shopping,0
+01/10/2024,Amazon,232.85,Shopping,0
+10/12/2024,Whole Foods,296.43,Groceries,0
+09/07/2024,Amazon,340.67,Shopping,0
+13/11/2024,Flipkart,170.72,Shopping,0
+27/11/2024,Amazon,321.35,Shopping,0
+24/12/2024,Whole Foods,328.13,Groceries,0
+24/01/2024,Starbucks,159.14,Food & Dining,0
+19/02/2024,Netflix,444.76,Entertainment,0
+20/08/2024,Shell Gas,338.54,Transportation,0
+03/10/2024,Target,297.8,Shopping,0
+31/07/2024,Amazon,418.51,Shopping,0
+23/05/2024,Starbucks,348.24,Food & Dining,0
+15/08/2024,Netflix,429.17,Entertainment,0
+17/12/2024,Shell Gas,276.79,Transportation,1
+02/07/2024,Starbucks,205.09,Food & Dining,0
+03/03/2024,ATM Withdrawal,54.92,Cash,0
+23/11/2024,Zomato,485.84,Food & Dining,0
+19/06/2024,Netflix,494.52,Entertainment,0
+15/04/2024,Amazon,416.61,Shopping,0
+27/10/2024,Netflix,408.4,Entertainment,0
+16/03/2024,Zomato,11.39,Food & Dining,1
+15/03/2024,Uber,274.71,Transportation,0
+26/02/2024,Starbucks,74.58,Food & Dining,0
+01/05/2024,Zomato,168.65,Food & Dining,0
+27/01/2024,Uber,373.44,Transportation,0
+02/02/2024,ATM Withdrawal,229.65,Cash,0
+30/10/2024,Amazon,231.48,Shopping,0
+10/11/2024,Starbucks,366.35,Food & Dining,1
+03/12/2024,Flipkart,157.8,Shopping,0
+16/01/2024,Starbucks,499.31,Food & Dining,0
+06/08/2024,Amazon,250.23,Shopping,1
+07/02/2024,Amazon,167.83,Shopping,0
+05/03/2024,Whole Foods,315.92,Groceries,0
+30/12/2024,Shell Gas,196.64,Transportation,0
+30/05/2024,ATM Withdrawal,257.72,Cash,0
+25/12/2024,Amazon,427.87,Shopping,0
+09/10/2024,Netflix,220.73,Entertainment,1
+30/07/2024,Shell Gas,415.44,Transportation,0
+18/02/2024,Shell Gas,219.11,Transportation,0
+10/07/2024,Uber,346.54,Transportation,0
+16/02/2024,Amazon,55.68,Shopping,0
+09/07/2024,Uber,282.62,Transportation,0
+14/10/2024,Flipkart,171.53,Shopping,0
+30/06/2024,Target,435.37,Shopping,0
+27/05/2024,Zomato,163.1,Food & Dining,0
+16/09/2024,Netflix,85.82,Entertainment,0
+25/02/2024,Shell Gas,424.23,Transportation,0
+22/05/2024,Zomato,120.82,Food & Dining,0
+14/10/2024,Zomato,310.65,Food & Dining,0
+14/01/2024,Zomato,465.25,Food & Dining,0
+16/05/2024,Starbucks,98.4,Food & Dining,0
+07/06/2024,Shell Gas,182,Transportation,0
+14/03/2024,Zomato,332.1,Food & Dining,0
+20/11/2024,Starbucks,54.96,Food & Dining,0
+11/07/2024,Target,232.29,Shopping,0
+08/06/2024,Shell Gas,390.65,Transportation,0
+13/02/2024,Starbucks,86.23,Food & Dining,0
+26/01/2024,Amazon,143.33,Shopping,0
+05/09/2024,Zomato,226.6,Food & Dining,0
+19/09/2024,Amazon,179.13,Shopping,0
+13/12/2024,Zomato,248.45,Food & Dining,0
+24/01/2024,Netflix,203.68,Entertainment,0
+04/01/2024,Netflix,157.7,Entertainment,0
+11/03/2024,Whole Foods,151.83,Groceries,0
+11/09/2024,Target,96.09,Shopping,0
+26/12/2024,Netflix,255.13,Entertainment,0
+30/06/2024,Amazon,204.56,Shopping,0
+11/08/2024,Starbucks,235.28,Food & Dining,0
+09/06/2024,Zomato,220.35,Food & Dining,0
+23/11/2024,Target,151.86,Shopping,0
+15/06/2024,Uber,402.65,Transportation,0
+19/12/2024,Shell Gas,53.18,Transportation,0
+04/05/2024,Target,298.55,Shopping,0
+21/07/2024,Whole Foods,375.44,Groceries,0
+27/03/2024,Amazon,260.14,Shopping,0
+18/09/2024,Netflix,453.9,Entertainment,0
+26/11/2024,Uber,125.77,Transportation,0
+11/04/2024,Uber,305.18,Transportation,0
+01/12/2024,Amazon,96.8,Shopping,0
+09/09/2024,ATM Withdrawal,379.68,Cash,0
+17/08/2024,Zomato,325.07,Food & Dining,1
+14/06/2024,Shell Gas,83.97,Transportation,0
+14/08/2024,Whole Foods,400.2,Groceries,0
+29/06/2024,Flipkart,46.35,Shopping,0
+20/01/2024,Starbucks,190.68,Food & Dining,0
+26/11/2024,Amazon,311.35,Shopping,0
+24/08/2024,Zomato,281.62,Food & Dining,0
+22/01/2024,ATM Withdrawal,455.43,Cash,0
+06/04/2024,Shell Gas,306.45,Transportation,0
+01/02/2024,ATM Withdrawal,60.72,Cash,1
+24/06/2024,Amazon,257.23,Shopping,0
+06/05/2024,ATM Withdrawal,495.58,Cash,0
+08/11/2024,Uber,188.31,Transportation,1
+17/07/2024,Target,389.49,Shopping,0
+27/01/2024,Shell Gas,42.3,Transportation,0
+13/12/2024,Target,149.23,Shopping,0
+02/12/2024,Zomato,437.91,Food & Dining,0
+25/10/2024,Uber,459.21,Transportation,0
+01/12/2024,Target,73.19,Shopping,0
+13/02/2024,Whole Foods,283.87,Groceries,0
+17/06/2024,Uber,338.36,Transportation,0
+16/12/2024,Flipkart,55.79,Shopping,0
+17/09/2024,Shell Gas,18.93,Transportation,0
+19/04/2024,Shell Gas,474.36,Transportation,0
+25/04/2024,Uber,85.92,Transportation,0
+21/02/2024,Flipkart,387.73,Shopping,0
+26/09/2024,Starbucks,334.35,Food & Dining,1
+12/11/2024,Uber,302.65,Transportation,0
+02/04/2024,Zomato,406.43,Food & Dining,0
+12/08/2024,Starbucks,211.32,Food & Dining,0
+01/05/2024,ATM Withdrawal,309.19,Cash,0
+17/08/2024,Netflix,271.67,Entertainment,0
+28/08/2024,Netflix,190.24,Entertainment,1
+13/08/2024,ATM Withdrawal,387.02,Cash,0
+14/09/2024,Flipkart,215.14,Shopping,0
+12/04/2024,Zomato,77.82,Food & Dining,0
+24/11/2024,ATM Withdrawal,438.32,Cash,0
+22/02/2024,Flipkart,427.07,Shopping,0
+23/03/2024,Whole Foods,230.17,Groceries,0
+11/08/2024,Amazon,473.74,Shopping,0
+18/08/2024,Shell Gas,465.93,Transportation,0
+21/07/2024,Flipkart,193.24,Shopping,0
+11/02/2024,Shell Gas,120.02,Transportation,0
+20/02/2024,Shell Gas,397.78,Transportation,0
+26/05/2024,ATM Withdrawal,351.08,Cash,0
+27/12/2024,ATM Withdrawal,229.81,Cash,0
+10/02/2024,Starbucks,135.4,Food & Dining,0
+07/10/2024,Zomato,268.61,Food & Dining,0
+27/05/2024,Netflix,157.56,Entertainment,0
+02/08/2024,Zomato,233.99,Food & Dining,0
+12/09/2024,Zomato,272.67,Food & Dining,0
+21/10/2024,Netflix,362.09,Entertainment,0
+01/01/2024,Zomato,182.88,Food & Dining,0
+05/04/2024,Amazon,266.51,Shopping,0
+26/09/2024,Flipkart,258.59,Shopping,1
+10/10/2024,Starbucks,201.32,Food & Dining,0
+21/11/2024,Target,490.71,Shopping,0
+09/01/2024,Shell Gas,396.37,Transportation,0
+02/12/2024,Amazon,388.04,Shopping,0
+19/06/2024,Uber,31.72,Transportation,0
+25/11/2024,Uber,416.89,Transportation,0
+22/12/2024,ATM Withdrawal,319.55,Cash,0
+02/02/2024,ATM Withdrawal,28.12,Cash,0
+12/04/2024,Starbucks,164.64,Food & Dining,0
+22/07/2024,Flipkart,241.97,Shopping,0
+27/11/2024,Netflix,150.19,Entertainment,1
+25/01/2024,Shell Gas,143.88,Transportation,0
+11/08/2024,Target,374.22,Shopping,1
+16/07/2024,Shell Gas,487.12,Transportation,0
+11/09/2024,Shell Gas,462.91,Transportation,0
+12/02/2024,Target,48.67,Shopping,0
+02/04/2024,Flipkart,153.95,Shopping,0
+16/06/2024,Whole Foods,160.18,Groceries,0
+06/08/2024,Uber,347.98,Transportation,0
+22/01/2024,Shell Gas,311.28,Transportation,0
+23/11/2024,Starbucks,46.77,Food & Dining,0
+05/07/2024,Flipkart,402.54,Shopping,0
+16/01/2024,Uber,425.85,Transportation,0
+12/08/2024,Starbucks,71.85,Food & Dining,0
+26/11/2024,Shell Gas,187.45,Transportation,1
+17/01/2024,Zomato,85.18,Food & Dining,0
+08/07/2024,Shell Gas,227.53,Transportation,0
+11/03/2024,Flipkart,189.81,Shopping,0
+22/05/2024,Netflix,480.65,Entertainment,0
+05/04/2024,ATM Withdrawal,263.7,Cash,1
+01/03/2024,Whole Foods,389.73,Groceries,0
+19/04/2024,Zomato,149.93,Food & Dining,1
+08/09/2024,Netflix,70.09,Entertainment,1
+19/08/2024,Uber,450.35,Transportation,0
+14/02/2024,Shell Gas,337.24,Transportation,0
+08/10/2024,Flipkart,152.28,Shopping,0
+21/03/2024,Uber,398.91,Transportation,0
+03/03/2024,Netflix,398.11,Entertainment,0
+09/09/2024,Starbucks,186.84,Food & Dining,0
+27/08/2024,Flipkart,73.59,Shopping,1
+03/02/2024,Whole Foods,205.1,Groceries,0
+02/09/2024,Flipkart,211.29,Shopping,0
+21/10/2024,Amazon,71.41,Shopping,0
+07/02/2024,ATM Withdrawal,238.26,Cash,0
+06/03/2024,Flipkart,323.5,Shopping,0
+07/03/2024,Target,256.4,Shopping,1
+04/03/2024,Flipkart,84.98,Shopping,0
+14/06/2024,Netflix,179.55,Entertainment,1
+25/05/2024,Amazon,132.8,Shopping,0
+09/10/2024,Whole Foods,71.33,Groceries,0
+30/09/2024,Amazon,256.26,Shopping,0
+24/10/2024,Uber,93.89,Transportation,0
+05/11/2024,Shell Gas,422.84,Transportation,0
+15/01/2024,Amazon,32.28,Shopping,0
+22/10/2024,Whole Foods,329.05,Groceries,0
+01/08/2024,Zomato,323.11,Food & Dining,0
+17/11/2024,Flipkart,151.94,Shopping,1
+04/09/2024,Netflix,404.3,Entertainment,0
+01/06/2024,ATM Withdrawal,45.76,Cash,0
+13/08/2024,Target,247.28,Shopping,0
+06/11/2024,Uber,163.17,Transportation,0
+25/06/2024,Target,74.08,Shopping,0
+14/10/2024,Amazon,166.37,Shopping,0
+16/05/2024,ATM Withdrawal,131.48,Cash,0
+28/05/2024,Target,433.44,Shopping,0
+22/03/2024,Shell Gas,467.54,Transportation,0
+07/04/2024,Uber,254.15,Transportation,0
+12/09/2024,Whole Foods,253.71,Groceries,0
+20/07/2024,Flipkart,234.04,Shopping,0
+25/10/2024,Shell Gas,33.84,Transportation,0
+01/11/2024,ATM Withdrawal,150.02,Cash,0
+25/02/2024,Target,75.63,Shopping,0
+06/07/2024,Target,189.31,Shopping,0
+18/10/2024,Flipkart,105.38,Shopping,0
+07/02/2024,Target,257.09,Shopping,0
+23/05/2024,Zomato,343.4,Food & Dining,0
+19/02/2024,Target,192.87,Shopping,1
+12/10/2024,Shell Gas,379.93,Transportation,0
+17/09/2024,Target,255.04,Shopping,0
+11/03/2024,Shell Gas,403.94,Transportation,0
+17/03/2024,Zomato,447.63,Food & Dining,0
+09/11/2024,Shell Gas,89.63,Transportation,1
+02/06/2024,Zomato,174.82,Food & Dining,0
+29/09/2024,ATM Withdrawal,357.28,Cash,0
+09/01/2024,Shell Gas,172.31,Transportation,0
+01/08/2024,Zomato,160.76,Food & Dining,1
+18/12/2024,Starbucks,302.49,Food & Dining,0
+01/12/2024,Zomato,293.04,Food & Dining,0
+25/10/2024,ATM Withdrawal,93.55,Cash,0
+13/11/2024,Target,82.41,Shopping,0
+17/01/2024,Zomato,474.62,Food & Dining,0
+10/01/2024,ATM Withdrawal,163.71,Cash,0
+19/12/2024,Netflix,211.08,Entertainment,0
+29/08/2024,Starbucks,355.83,Food & Dining,0
+14/10/2024,Shell Gas,499.08,Transportation,0
+11/07/2024,Shell Gas,478.78,Transportation,0
+29/09/2024,Shell Gas,277.67,Transportation,0
+14/12/2024,Whole Foods,308.94,Groceries,0
+06/05/2024,Whole Foods,283.46,Groceries,0
+01/06/2024,Whole Foods,355.4,Groceries,0
+07/09/2024,Shell Gas,245.1,Transportation,0
+20/05/2024,Whole Foods,69.72,Groceries,0
+13/07/2024,Target,411,Shopping,1
+15/03/2024,Whole Foods,30.61,Groceries,1
+10/02/2024,Shell Gas,462.76,Transportation,0
+02/09/2024,Netflix,109.01,Entertainment,0
+14/10/2024,Whole Foods,77.26,Groceries,0
+27/10/2024,Netflix,128.8,Entertainment,0
+28/09/2024,Netflix,322.59,Entertainment,0
+30/07/2024,Shell Gas,361.51,Transportation,0
+11/03/2024,Starbucks,482.61,Food & Dining,1
+21/03/2024,Target,329.92,Shopping,1
+31/08/2024,ATM Withdrawal,328.76,Cash,0
+27/05/2024,Shell Gas,149.85,Transportation,0
+15/02/2024,Zomato,123.79,Food & Dining,0
+20/01/2024,Uber,214.76,Transportation,0
+19/01/2024,Target,396.1,Shopping,0
+28/05/2024,Starbucks,14.54,Food & Dining,0
+24/02/2024,Shell Gas,149.44,Transportation,1
+05/10/2024,Flipkart,252.02,Shopping,1
+15/09/2024,ATM Withdrawal,143.69,Cash,0
+18/06/2024,Uber,368.25,Transportation,0
+05/04/2024,Starbucks,370.94,Food & Dining,0
+17/10/2024,Netflix,95.99,Entertainment,1
+26/07/2024,Target,262.49,Shopping,0
+08/12/2024,Amazon,100.54,Shopping,0
+14/06/2024,Netflix,13.35,Entertainment,0
+16/08/2024,Whole Foods,477.48,Groceries,0
+20/10/2024,Starbucks,138.16,Food & Dining,0
+30/04/2024,Starbucks,337.22,Food & Dining,0
+22/03/2024,Target,346.18,Shopping,1
+26/12/2024,Whole Foods,348.24,Groceries,0
+31/05/2024,Shell Gas,311.17,Transportation,0
+09/03/2024,ATM Withdrawal,85.06,Cash,0
+06/11/2024,Shell Gas,213.76,Transportation,0
+29/08/2024,Flipkart,402.98,Shopping,0
+06/05/2024,Zomato,437.84,Food & Dining,0
+16/08/2024,Flipkart,354.85,Shopping,0
+15/10/2024,Amazon,40.26,Shopping,0
+15/09/2024,Netflix,290.62,Entertainment,0
+16/06/2024,Flipkart,226.5,Shopping,0
+25/10/2024,ATM Withdrawal,54.56,Cash,0
+29/01/2024,ATM Withdrawal,74.65,Cash,0
+15/10/2024,Starbucks,283.81,Food & Dining,0
+06/06/2024,Starbucks,204.01,Food & Dining,0
+21/04/2024,Zomato,45.78,Food & Dining,0
+24/12/2024,Amazon,275.17,Shopping,0
+05/02/2024,ATM Withdrawal,25.55,Cash,0
+10/03/2024,Target,193.49,Shopping,1
+17/08/2024,Target,194.07,Shopping,0
+04/12/2024,Flipkart,75.17,Shopping,1
+01/03/2024,Uber,496.49,Transportation,0
+06/03/2024,Netflix,419.06,Entertainment,0
+01/06/2024,ATM Withdrawal,340.01,Cash,0
+29/09/2024,Target,413.45,Shopping,0
+26/06/2024,Uber,145.07,Transportation,1
+27/02/2024,Starbucks,406.64,Food & Dining,0
+09/01/2024,Netflix,110.98,Entertainment,0
+18/01/2024,ATM Withdrawal,302.91,Cash,0
+25/01/2024,Netflix,372.87,Entertainment,0
+29/04/2024,Flipkart,116.46,Shopping,1
+29/01/2024,Uber,256.91,Transportation,0
+21/10/2024,Shell Gas,292.96,Transportation,0
+13/06/2024,Netflix,157.86,Entertainment,0
+04/12/2024,Flipkart,118.31,Shopping,0
+01/02/2024,Flipkart,474.77,Shopping,1
+30/03/2024,Target,282.37,Shopping,0
+25/06/2024,Target,395.04,Shopping,0
+01/08/2024,Target,83.12,Shopping,0
+02/10/2024,ATM Withdrawal,128.07,Cash,0
+28/12/2024,Uber,404.83,Transportation,1
+14/10/2024,Target,484.22,Shopping,0
+09/03/2024,Target,129,Shopping,0
+27/11/2024,Amazon,461.89,Shopping,0
+17/02/2024,Flipkart,365.05,Shopping,0
+17/05/2024,Target,340.1,Shopping,0
+07/02/2024,Netflix,404.28,Entertainment,0
+09/12/2024,Flipkart,116.34,Shopping,0
+19/06/2024,Whole Foods,478.94,Groceries,0
+07/04/2024,Amazon,375.97,Shopping,0
+04/05/2024,Zomato,354.85,Food & Dining,0
+02/05/2024,Flipkart,167.59,Shopping,0
+26/08/2024,Flipkart,327.87,Shopping,0
+03/07/2024,Flipkart,442.58,Shopping,0
+28/08/2024,Shell Gas,458.02,Transportation,0
+30/07/2024,Starbucks,285.64,Food & Dining,0
+15/03/2024,Starbucks,137.78,Food & Dining,1
+23/10/2024,Target,154.64,Shopping,0
+27/04/2024,Target,289.2,Shopping,0
+08/10/2024,Shell Gas,136.09,Transportation,0
+24/11/2024,ATM Withdrawal,235.81,Cash,0
+29/06/2024,Uber,78.58,Transportation,0
+04/04/2024,Flipkart,495.26,Shopping,1
+25/09/2024,Starbucks,421.14,Food & Dining,0
+08/12/2024,Starbucks,384.53,Food & Dining,0
+18/11/2024,Netflix,43.3,Entertainment,0
+21/04/2024,Flipkart,233.44,Shopping,0
+22/11/2024,Zomato,457.25,Food & Dining,0
+09/01/2024,Starbucks,270.78,Food & Dining,0
+09/01/2024,Flipkart,363.87,Shopping,0
+26/05/2024,Starbucks,256.09,Food & Dining,0
+08/08/2024,Uber,62.44,Transportation,0
+17/03/2024,Netflix,104.05,Entertainment,0
+30/06/2024,Whole Foods,399.52,Groceries,0
+26/07/2024,ATM Withdrawal,286.85,Cash,1
+25/04/2024,Whole Foods,345.18,Groceries,0
+30/11/2024,Starbucks,55.82,Food & Dining,0
+09/10/2024,ATM Withdrawal,37.5,Cash,0
+28/03/2024,Amazon,254.93,Shopping,0
+18/06/2024,Zomato,488.89,Food & Dining,1
+27/09/2024,Starbucks,122.59,Food & Dining,1
+20/12/2024,Zomato,243,Food & Dining,0
+08/02/2024,Whole Foods,450.66,Groceries,0
+17/01/2024,Uber,465.1,Transportation,0
+16/04/2024,Zomato,80.65,Food & Dining,0
+22/07/2024,Amazon,156.65,Shopping,0
+17/10/2024,Target,341.75,Shopping,0
+15/07/2024,Uber,397.34,Transportation,0
+10/02/2024,Flipkart,375.27,Shopping,0
+20/02/2024,Target,123.75,Shopping,0
+05/11/2024,Zomato,477.88,Food & Dining,0
+16/06/2024,Starbucks,320.72,Food & Dining,0
+18/08/2024,ATM Withdrawal,121.79,Cash,0
+11/07/2024,Target,101.01,Shopping,0
+13/07/2024,Amazon,388.36,Shopping,0
+06/05/2024,Amazon,50.2,Shopping,0
+30/12/2024,Uber,372.43,Transportation,0
+24/02/2024,Amazon,12.55,Shopping,0
+03/07/2024,Whole Foods,60.09,Groceries,0
+08/08/2024,ATM Withdrawal,282.92,Cash,0
+22/02/2024,Starbucks,53.91,Food & Dining,0
+01/11/2024,Zomato,394.37,Food & Dining,1
+07/01/2024,Whole Foods,212.77,Groceries,0
+13/10/2024,Netflix,290.26,Entertainment,0
+13/07/2024,Uber,78.03,Transportation,0
+09/09/2024,Uber,41,Transportation,0
+03/08/2024,Whole Foods,247.27,Groceries,0
+08/05/2024,Netflix,363.24,Entertainment,0
+11/11/2024,Netflix,234.35,Entertainment,0
+04/01/2024,Target,172.79,Shopping,0
+17/06/2024,ATM Withdrawal,174.02,Cash,0
+29/11/2024,Zomato,76.7,Food & Dining,0
+21/12/2024,Netflix,244.71,Entertainment,0
+22/07/2024,Shell Gas,152.81,Transportation,0
+08/09/2024,Zomato,393.17,Food & Dining,0
+23/05/2024,Target,188.86,Shopping,1
+12/04/2024,Zomato,498.66,Food & Dining,0
+08/10/2024,Starbucks,476.97,Food & Dining,0
+28/12/2024,Netflix,224.84,Entertainment,0
+20/12/2024,Amazon,411.29,Shopping,0
+28/07/2024,ATM Withdrawal,78.2,Cash,0
+09/05/2024,Uber,360.47,Transportation,0
+07/02/2024,ATM Withdrawal,495.44,Cash,0
+24/07/2024,Flipkart,258.24,Shopping,1
+20/12/2024,Target,276.39,Shopping,0
+03/07/2024,Flipkart,300.97,Shopping,1
+25/02/2024,Netflix,332.22,Entertainment,0
+27/11/2024,Zomato,31.71,Food & Dining,1
+12/12/2024,Target,483.74,Shopping,0
+08/08/2024,Amazon,15.17,Shopping,0
+18/09/2024,Flipkart,283.42,Shopping,0
+23/04/2024,ATM Withdrawal,193.32,Cash,0
+13/12/2024,Zomato,348.31,Food & Dining,0
+13/01/2024,ATM Withdrawal,61.23,Cash,0
+13/02/2024,Amazon,417.35,Shopping,0
+27/06/2024,Whole Foods,178.1,Groceries,0
+23/09/2024,ATM Withdrawal,180.67,Cash,0
+22/12/2024,ATM Withdrawal,166.27,Cash,0
+29/12/2024,Amazon,21.07,Shopping,0
+25/02/2024,Uber,465.66,Transportation,0
+21/09/2024,Uber,280.44,Transportation,0
+06/08/2024,ATM Withdrawal,123.61,Cash,0
+04/04/2024,Uber,323.83,Transportation,0
+15/01/2024,Zomato,442.72,Food & Dining,0
+07/08/2024,Target,12.18,Shopping,0
+22/05/2024,Amazon,292.9,Shopping,0
+01/10/2024,Uber,189.24,Transportation,0
+28/02/2024,Whole Foods,338.64,Groceries,0
+23/11/2024,Shell Gas,302.52,Transportation,0
+27/10/2024,Amazon,180.48,Shopping,0
+12/11/2024,Uber,408.73,Transportation,0
+01/06/2024,Zomato,299.18,Food & Dining,0
+09/06/2024,Amazon,126.9,Shopping,0
+10/07/2024,Uber,260.3,Transportation,0
+11/03/2024,Zomato,198.02,Food & Dining,0
+21/11/2024,Flipkart,349.78,Shopping,0
+29/03/2024,Flipkart,91.76,Shopping,0
+05/04/2024,Shell Gas,422.57,Transportation,0
+02/07/2024,Starbucks,247.46,Food & Dining,0
+15/07/2024,Flipkart,257.66,Shopping,0
+16/12/2024,ATM Withdrawal,213.66,Cash,0
+07/09/2024,Uber,50.51,Transportation,0
+22/04/2024,Whole Foods,26.02,Groceries,0
+27/05/2024,Uber,392.56,Transportation,0
+10/09/2024,Flipkart,260.29,Shopping,0
+17/05/2024,Flipkart,413.41,Shopping,0
+22/01/2024,ATM Withdrawal,277.71,Cash,1
+22/02/2024,Netflix,155.88,Entertainment,1
+18/08/2024,Whole Foods,180.8,Groceries,0
+12/08/2024,Amazon,390.06,Shopping,0
+28/10/2024,Shell Gas,431.91,Transportation,0
+07/08/2024,Uber,311.91,Transportation,0
+15/04/2024,Starbucks,289.34,Food & Dining,0
+01/11/2024,Flipkart,92.5,Shopping,1
+29/05/2024,Whole Foods,290.64,Groceries,1
+20/09/2024,Amazon,76.44,Shopping,0
+29/07/2024,Starbucks,496.32,Food & Dining,1
+05/03/2024,Uber,132.34,Transportation,0
+06/05/2024,Target,249.83,Shopping,0
+17/05/2024,Target,193.83,Shopping,0
+17/02/2024,Target,262.65,Shopping,0
+07/07/2024,ATM Withdrawal,475.62,Cash,0
+02/01/2024,Amazon,368.16,Shopping,0
+06/12/2024,Shell Gas,426.55,Transportation,0
+22/07/2024,Netflix,484.38,Entertainment,0
+10/09/2024,Whole Foods,168.2,Groceries,0
+07/10/2024,Zomato,73.99,Food & Dining,1
+24/06/2024,Starbucks,32.51,Food & Dining,0
+23/08/2024,Starbucks,70.88,Food & Dining,1
+13/08/2024,ATM Withdrawal,10.33,Cash,1
+13/04/2024,Uber,442.25,Transportation,0
+20/05/2024,Amazon,330.75,Shopping,0
+09/07/2024,Uber,35.38,Transportation,0
+24/12/2024,Netflix,220.32,Entertainment,0
+18/02/2024,Starbucks,114.58,Food & Dining,0
+30/10/2024,Netflix,264.53,Entertainment,0
+05/01/2024,Shell Gas,410.38,Transportation,1
+04/08/2024,Uber,244.07,Transportation,0
+15/02/2024,Amazon,60.57,Shopping,0
+02/06/2024,Uber,197.53,Transportation,0
+09/03/2024,Uber,43.52,Transportation,0
+08/11/2024,Uber,225.65,Transportation,0
+17/11/2024,Uber,460.75,Transportation,0
+14/08/2024,Netflix,52.48,Entertainment,0
+04/03/2024,Zomato,367.7,Food & Dining,0
+07/08/2024,Shell Gas,397.63,Transportation,0
+26/11/2024,Amazon,131.6,Shopping,0
+07/11/2024,Whole Foods,391.7,Groceries,0
+03/12/2024,Whole Foods,110.67,Groceries,0
+06/04/2024,Target,154.82,Shopping,0
+02/05/2024,ATM Withdrawal,199.08,Cash,0
+22/11/2024,Zomato,44.8,Food & Dining,1
+07/01/2024,Shell Gas,467.62,Transportation,0
+18/10/2024,Target,189.05,Shopping,0
+29/08/2024,Amazon,18.18,Shopping,0
+14/05/2024,Netflix,29.52,Entertainment,0
+22/07/2024,Flipkart,150.38,Shopping,0
+31/07/2024,Target,353.89,Shopping,0
+01/10/2024,Flipkart,311.86,Shopping,0
+07/06/2024,Amazon,260.54,Shopping,0
+20/03/2024,Flipkart,170.11,Shopping,0
+28/11/2024,Amazon,161.98,Shopping,0
+02/05/2024,Starbucks,129.8,Food & Dining,1
+29/02/2024,ATM Withdrawal,310.03,Cash,0
+07/12/2024,Uber,68.53,Transportation,0
+25/12/2024,Starbucks,90.28,Food & Dining,1
+24/09/2024,Flipkart,393.66,Shopping,0
+26/03/2024,Shell Gas,72.2,Transportation,0
+17/05/2024,Amazon,388,Shopping,0
+07/08/2024,Whole Foods,266.69,Groceries,0
+22/10/2024,Amazon,253.11,Shopping,0
+29/01/2024,ATM Withdrawal,431.09,Cash,0
+21/03/2024,Whole Foods,388.93,Groceries,1
+11/12/2024,Amazon,121.92,Shopping,0
+23/01/2024,Starbucks,129.83,Food & Dining,0
+15/07/2024,Uber,97.69,Transportation,1
+19/01/2024,Flipkart,403.53,Shopping,0
+01/12/2024,Target,120.01,Shopping,0
+12/06/2024,Whole Foods,414.74,Groceries,0
+02/03/2024,Flipkart,339.93,Shopping,0
+24/04/2024,Flipkart,490.89,Shopping,1
+05/02/2024,ATM Withdrawal,434.36,Cash,0
+08/06/2024,Shell Gas,52.33,Transportation,0
+07/07/2024,Netflix,152.88,Entertainment,0
+14/11/2024,Netflix,237.32,Entertainment,0
+09/09/2024,Netflix,368.91,Entertainment,0
+05/05/2024,Uber,13.13,Transportation,0
+29/04/2024,Flipkart,179.75,Shopping,0
+05/01/2024,Shell Gas,10.72,Transportation,0
+06/06/2024,Amazon,110.55,Shopping,1
+02/08/2024,ATM Withdrawal,480.98,Cash,1
+13/03/2024,Whole Foods,55.58,Groceries,1
+23/09/2024,Target,353.41,Shopping,0
+13/02/2024,Zomato,56.83,Food & Dining,0
+20/07/2024,Amazon,300.03,Shopping,0
+05/12/2024,Uber,126.02,Transportation,0
+10/06/2024,Target,353.36,Shopping,0
+11/06/2024,ATM Withdrawal,143.26,Cash,0
+13/04/2024,Uber,392.17,Transportation,0
+20/03/2024,Amazon,90.54,Shopping,0
+27/07/2024,Amazon,272.6,Shopping,1
+16/04/2024,ATM Withdrawal,161.07,Cash,0
+02/03/2024,Amazon,87.23,Shopping,0
+26/12/2024,Zomato,29.76,Food & Dining,0
+16/06/2024,Uber,54.69,Transportation,0
+01/07/2024,Target,261.6,Shopping,0
+13/05/2024,Uber,25.23,Transportation,0
+19/08/2024,Flipkart,376.56,Shopping,0
+24/08/2024,Amazon,403.91,Shopping,0
+07/01/2024,Starbucks,416.88,Food & Dining,1
+07/03/2024,Netflix,413.6,Entertainment,0
+18/11/2024,Amazon,295.34,Shopping,0
+08/02/2024,Starbucks,498.61,Food & Dining,0
+26/11/2024,ATM Withdrawal,406.56,Cash,0
+18/06/2024,Amazon,30.92,Shopping,0
+27/03/2024,Zomato,222.25,Food & Dining,0
+11/09/2024,Starbucks,197.54,Food & Dining,0
+30/06/2024,Netflix,455.07,Entertainment,0
+16/08/2024,Uber,26.98,Transportation,0
+05/05/2024,Whole Foods,254.46,Groceries,1
+02/09/2024,Starbucks,52.98,Food & Dining,0
+02/08/2024,Netflix,324.9,Entertainment,0
+07/05/2024,Flipkart,399.47,Shopping,1
+02/07/2024,ATM Withdrawal,276.81,Cash,0
+16/10/2024,Flipkart,167.59,Shopping,0
+14/01/2024,Shell Gas,302.59,Transportation,0
+23/05/2024,Starbucks,406.24,Food & Dining,0
+02/07/2024,Zomato,499.81,Food & Dining,1
+21/02/2024,Netflix,331.86,Entertainment,0
+29/01/2024,Netflix,292.09,Entertainment,1
+17/07/2024,Shell Gas,468.25,Transportation,1
+29/03/2024,Uber,125.91,Transportation,0
+23/12/2024,Shell Gas,457.85,Transportation,0
+24/12/2024,Shell Gas,474.3,Transportation,0
+15/10/2024,Netflix,419.98,Entertainment,0
+09/09/2024,Flipkart,161.44,Shopping,0
+16/02/2024,Starbucks,123.99,Food & Dining,0
+26/09/2024,ATM Withdrawal,10.33,Cash,1
+13/04/2024,Uber,176.97,Transportation,0
+14/06/2024,Starbucks,20.74,Food & Dining,0
+13/03/2024,Amazon,424.78,Shopping,1
+07/02/2024,Shell Gas,355.22,Transportation,0
+27/10/2024,Amazon,174.91,Shopping,0
+21/03/2024,Target,398,Shopping,1
+28/11/2024,Shell Gas,95.36,Transportation,1
+21/12/2024,Zomato,395.63,Food & Dining,0
+28/10/2024,Uber,195.41,Transportation,0
+30/05/2024,Uber,97.08,Transportation,0
+25/12/2024,Zomato,201.88,Food & Dining,1
+17/10/2024,Starbucks,99.22,Food & Dining,0
+09/11/2024,Netflix,323.43,Entertainment,0
+11/09/2024,Uber,172.27,Transportation,0
+26/06/2024,Shell Gas,92.26,Transportation,1
+15/02/2024,Shell Gas,228.85,Transportation,0
+07/05/2024,Amazon,181.74,Shopping,0
+01/01/2024,Starbucks,199.11,Food & Dining,0
+26/03/2024,Target,251.61,Shopping,0
+06/10/2024,Target,59.7,Shopping,0
+22/10/2024,Netflix,89.7,Entertainment,0
+18/01/2024,Whole Foods,19.84,Groceries,0
+23/02/2024,Amazon,177.49,Shopping,1
+23/03/2024,Amazon,278.05,Shopping,1
+17/02/2024,Shell Gas,301.07,Transportation,0
+04/09/2024,Starbucks,221.35,Food & Dining,0
+06/11/2024,Target,86.98,Shopping,0
+15/04/2024,Netflix,210.55,Entertainment,0
+03/10/2024,Whole Foods,333.69,Groceries,0
+19/02/2024,Starbucks,202.52,Food & Dining,0
+08/09/2024,Uber,36.71,Transportation,0
+14/02/2024,Whole Foods,413.71,Groceries,0
+02/09/2024,Netflix,57.52,Entertainment,0
+22/11/2024,Whole Foods,488.76,Groceries,0
+29/02/2024,Whole Foods,394.59,Groceries,0
+04/12/2024,Whole Foods,54.66,Groceries,0
+04/04/2024,Shell Gas,443.89,Transportation,0
+16/08/2024,Starbucks,139.02,Food & Dining,0
+25/04/2024,Whole Foods,286.48,Groceries,0
+22/12/2024,Amazon,52,Shopping,0
+04/10/2024,Target,485.65,Shopping,0
+10/10/2024,Starbucks,421.99,Food & Dining,0
+02/08/2024,Flipkart,346.66,Shopping,1
+20/10/2024,Netflix,243.37,Entertainment,0
+18/01/2024,Flipkart,289.9,Shopping,0
+19/10/2024,Zomato,82.25,Food & Dining,1
+17/08/2024,Uber,475.04,Transportation,0
+18/04/2024,Netflix,71.83,Entertainment,0
+15/12/2024,Target,108.94,Shopping,0
+16/03/2024,Zomato,136.36,Food & Dining,1
+04/02/2024,Amazon,200.17,Shopping,0
+15/06/2024,Whole Foods,264.65,Groceries,1
+07/01/2024,Zomato,297.91,Food & Dining,0
+27/02/2024,Target,83.32,Shopping,0
+25/10/2024,Amazon,463.21,Shopping,0
+21/02/2024,Whole Foods,435.06,Groceries,1
+29/07/2024,Whole Foods,197.69,Groceries,0
+07/11/2024,ATM Withdrawal,28.36,Cash,0
+14/03/2024,Zomato,308.24,Food & Dining,0
+20/01/2024,Target,445.89,Shopping,0
+01/05/2024,Starbucks,375.42,Food & Dining,1
+09/07/2024,Starbucks,175.55,Food & Dining,0
+08/06/2024,Whole Foods,422.99,Groceries,1
+16/12/2024,Amazon,486.52,Shopping,0
+02/06/2024,ATM Withdrawal,389.28,Cash,0
+01/08/2024,Zomato,326.32,Food & Dining,0
+18/04/2024,Target,373.06,Shopping,0
+10/07/2024,Starbucks,262.48,Food & Dining,0
+08/06/2024,Flipkart,207.66,Shopping,0
+25/09/2024,Zomato,24.18,Food & Dining,0
+12/04/2024,Starbucks,132.25,Food & Dining,0
+03/07/2024,Netflix,144.25,Entertainment,0
+15/09/2024,Target,321.35,Shopping,0
+16/01/2024,Netflix,192.51,Entertainment,0
+31/03/2024,ATM Withdrawal,297.57,Cash,0
+24/03/2024,Whole Foods,376.99,Groceries,0
+25/05/2024,Starbucks,199.42,Food & Dining,0
+19/10/2024,Netflix,429.98,Entertainment,0
+12/12/2024,Netflix,141.85,Entertainment,0
+11/01/2024,Starbucks,242.31,Food & Dining,0
+29/03/2024,Zomato,402.42,Food & Dining,0
+07/11/2024,Whole Foods,359.24,Groceries,0
+20/05/2024,Target,448.79,Shopping,1
+23/08/2024,Whole Foods,116.92,Groceries,0
+23/09/2024,Zomato,204.6,Food & Dining,0
+18/09/2024,Shell Gas,285.11,Transportation,0
+24/05/2024,Whole Foods,345.36,Groceries,0
+21/06/2024,Whole Foods,323.89,Groceries,1
+13/05/2024,Whole Foods,102.3,Groceries,0
+03/05/2024,Starbucks,404.66,Food & Dining,0
+03/11/2024,Target,333.66,Shopping,0
+14/01/2024,ATM Withdrawal,498.76,Cash,0
+02/08/2024,Target,200.25,Shopping,0
+28/12/2024,Zomato,409.85,Food & Dining,0
+23/04/2024,Flipkart,322.77,Shopping,0
+09/12/2024,Shell Gas,258.58,Transportation,0
+02/12/2024,Flipkart,98.76,Shopping,0
+06/03/2024,Whole Foods,365.34,Groceries,0
+03/04/2024,Shell Gas,330.67,Transportation,0
+24/04/2024,Whole Foods,216.03,Groceries,1
+09/07/2024,Whole Foods,296.93,Groceries,0
+01/03/2024,ATM Withdrawal,36.3,Cash,0
+24/10/2024,Zomato,44.9,Food & Dining,1
+13/09/2024,Amazon,435.07,Shopping,0
+01/06/2024,Target,36.49,Shopping,1
+11/03/2024,Netflix,177.91,Entertainment,1
+22/08/2024,Uber,165.03,Transportation,0
+11/02/2024,ATM Withdrawal,172.99,Cash,1
+09/06/2024,Starbucks,12.31,Food & Dining,0
+27/03/2024,Zomato,384.6,Food & Dining,0
+15/02/2024,Uber,311.1,Transportation,0
+25/07/2024,Target,483.01,Shopping,0
+20/01/2024,Flipkart,107.71,Shopping,0
+08/01/2024,Shell Gas,380.86,Transportation,0
+10/01/2024,Starbucks,317.08,Food & Dining,0
+21/12/2024,Shell Gas,162.93,Transportation,0
+14/09/2024,Zomato,160,Food & Dining,0
+24/01/2024,Whole Foods,474.75,Groceries,0
+23/09/2024,Zomato,266.82,Food & Dining,0
+17/12/2024,Uber,177.94,Transportation,1
+02/07/2024,Netflix,90.79,Entertainment,1
+25/07/2024,Starbucks,121.92,Food & Dining,0
+08/03/2024,Netflix,369.7,Entertainment,0
+27/03/2024,Amazon,189.63,Shopping,0
+20/01/2024,Target,439.51,Shopping,0
+30/09/2024,Zomato,33.81,Food & Dining,1
+04/12/2024,Amazon,330.25,Shopping,0
+19/12/2024,Amazon,214.22,Shopping,0
+07/10/2024,Whole Foods,242.45,Groceries,0
+21/12/2024,Starbucks,157.55,Food & Dining,0
+05/12/2024,Flipkart,142.29,Shopping,0
+11/03/2024,Target,417.02,Shopping,0
+12/11/2024,Amazon,148.53,Shopping,0
+11/09/2024,Netflix,308.41,Entertainment,0
+24/09/2024,Netflix,185.38,Entertainment,0
+23/03/2024,Starbucks,278.59,Food & Dining,1
+18/12/2024,ATM Withdrawal,172,Cash,0
+09/12/2024,Amazon,454.37,Shopping,0
+08/12/2024,ATM Withdrawal,83.08,Cash,0
+18/09/2024,Amazon,364.55,Shopping,0
+11/05/2024,Netflix,233.81,Entertainment,1
+15/05/2024,ATM Withdrawal,34.54,Cash,0
+21/01/2024,Whole Foods,186.51,Groceries,0
+06/08/2024,Amazon,56.55,Shopping,0
+24/01/2024,Starbucks,427.48,Food & Dining,0
+28/03/2024,Shell Gas,185.19,Transportation,0
+14/11/2024,Whole Foods,440.45,Groceries,0
+24/06/2024,Uber,65.78,Transportation,0
+21/08/2024,Whole Foods,419.5,Groceries,0
+01/09/2024,Target,327.93,Shopping,0
+27/02/2024,Uber,351.12,Transportation,0
+22/03/2024,Amazon,213.85,Shopping,0
+18/10/2024,ATM Withdrawal,98.82,Cash,0
+02/07/2024,Zomato,24.12,Food & Dining,0
+07/03/2024,ATM Withdrawal,461,Cash,0
+29/07/2024,ATM Withdrawal,32.53,Cash,0
+09/06/2024,Starbucks,355.24,Food & Dining,0
+22/10/2024,Zomato,119.75,Food & Dining,1
+22/06/2024,Flipkart,266.32,Shopping,0
+18/02/2024,Target,334.24,Shopping,0
+26/06/2024,Target,82.84,Shopping,0
+09/11/2024,Starbucks,15.71,Food & Dining,1
+15/09/2024,ATM Withdrawal,427.42,Cash,1
+08/02/2024,ATM Withdrawal,167.11,Cash,0

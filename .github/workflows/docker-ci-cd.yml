@@ -52,8 +52,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
     
-    - name: Deploy to production
+    - name: Deploy to Streamlit
       run: |
-        echo "Deployment would happen here"
-        # Example: SSH into a server and run docker-compose
-        # ssh user@server "cd /app && docker-compose up -d"
+        curl -X POST \
+          -H "Authorization: Bearer ${{ secrets.STREAMLIT_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -d '{"repository": "${{ github.repository }}", "branch": "main"}' \
+          https://api.streamlit.io/v1/deploy

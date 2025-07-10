@@ -1,0 +1,11 @@
+# render.yaml
+services:
+  - type: web
+    name: finance-buddy
+    env: docker
+    plan: free
+    repo: https://github.com/khushih28/wellness-tracker
+    branch: main
+    dockerfilePath: Dockerfile
+    autoDeploy: true
+    healthCheckPath: /
